@@ -1,4 +1,4 @@
-# SentimentAnalysis
+# Sentiment Analysis - Inside Out 2
 
 # Step 1: Pre-processing & Appending Data 
 
